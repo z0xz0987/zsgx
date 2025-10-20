@@ -1,9 +1,0 @@
-{
-    "version": "1.0.0",
-    "release_date": "2024-01-20",
-    "release_notes": "初始版本发布",
-    "download_url": "https://your-app.vercel.app/updates/v1.0.0.zip",
-    "hash": "sha256:youractualhashhere",
-    "size": 5242880,
-    "mandatory": false
-}
